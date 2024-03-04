@@ -1,4 +1,4 @@
-<!-- ## CÁCH CÁC TỐI ƯU SEO CHO DỰ ÁN SỬ DỤNG REACTJS, NEXTJS
+## CÁCH CÁC TỐI ƯU SEO CHO DỰ ÁN SỬ DỤNG REACTJS, NEXTJS
 
 # Triển khai SSR: Server Side Rendering
 
@@ -87,6 +87,6 @@
 </head>
 ```
 
-![![alt text](image-2.png)](public/image-2.png)
+# Kết Quả Đạt Được
 
-# Kết Quả Đạt Được -->
+![![alt text](image-2.png)](public/image-2.png)
